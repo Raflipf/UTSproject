@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTSproject</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login\n</string>
+    <string name="register">Daftar akun disini</string>
+    <string name="food_list_title">Makanan Dan Minuman</string>
+</resources>
